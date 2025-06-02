@@ -10,9 +10,9 @@ A sleek, responsive React application that allows users to type in color names (
 - 💅 Responsive, modern UI with clean design
 - 🎯 Built with accessibility and usability in mind
 
-## 🖼️ Demo
+## Demo
 
-![Check the official web](https://via.placeholder.com/600x300.png?text=App+Screenshot)
+![Check the official web](https://gene-color.netlify.app/)
 
 ## 🛠️ Technologies Used
 
@@ -28,4 +28,5 @@ cd color-vision-generator
 npm install
 npm start
 ```
+
 # color-generator
